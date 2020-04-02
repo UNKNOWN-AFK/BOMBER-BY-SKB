@@ -46,10 +46,10 @@ Commands below provide instructions for Debian-based systems.
 
 To use the bomber type the following commands in Termux:
 ```
-pkg install git
-pkg install python
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
+$ apt update && apt upgrade
+$ apt install git 
+$ git clone 
+c
 chmod +x TBomb.sh
 ./TBomb.sh
 ```
