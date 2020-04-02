@@ -58,12 +58,12 @@ elif [ $ch -eq 3 ];then
 clear
 apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
-git clone https://github.com/TheSpeedX/TBomb
-if [[ -s TBomb/TBomb.sh ]];then
-cd TBomb
+git clone https://github.com/UNKOWN-AFK/BOMBER-BY-SKB
+if [[ -s BOMBER-BY-SKB/TBomb.sh ]];then
+cd BOMBER-BY-SKB
 cp -r -f * .. > temp
 cd ..
-rm -rf  TBomb >> temp
+rm -rf  BOMBER-BY-SKB >> temp
 rm update.speedx >> temp
 rm temp
 chmod +x TBomb.sh
