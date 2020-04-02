@@ -99,5 +99,3 @@ Toilet cannot be installed yet. But TBomb does still work.
 
 sudo bash TBomb.sh
 ```
-
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
