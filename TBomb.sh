@@ -30,8 +30,8 @@ toilet -f mono12 -F border SKB
 echo -e "\e[4;34m This Bomber Was Created By SKB \e[0m"
 echo -e ""
 echo -e ""
-echo -e ""
-echo " "
+
+
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
 echo "Press 1 To  Start SMS Bomber "
@@ -58,7 +58,7 @@ elif [ $ch -eq 3 ];then
 clear
 apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
-git clone https://github.com/UNKNOWN-AFK/BOMBER-BY-SKB
+git clone https://github.com/TheSpeedX/TBomb
 if [[ -s TBomb/TBomb.sh ]];then
 cd TBomb
 cp -r -f * .. > temp
