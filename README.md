@@ -50,7 +50,7 @@ $ apt update && apt upgrade
 $ apt install git 
 $ apt install python
 $ git clone https://github.com/UNKNOWN-AFK/BOMBER-BY-SKB
-$ cd TBomb
+$ cd BOMBER-BY-SKB
 $ chmod +x TBomb.sh
 $ ./TBomb.sh
 ```
@@ -68,7 +68,7 @@ To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
 git clone https://github.com/UNKNOWN-AFK/BOMBER-BY-SKB
-cd TBomb
+cd BOMBER-BY-SKB
 chmod +x TBomb.sh
 sudo bash TBomb.sh
 ```
@@ -88,7 +88,7 @@ brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/UNKNOWN-AFK/BOMBER-BY-SKB
-cd TBomb
+cd BOMBER-BY-SKB
 chmod +x TBomb.sh
 
 # Missing Tools
