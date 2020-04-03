@@ -2,7 +2,7 @@
 clear
 echo -e "\e[4;31m SKB Productions !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
-echo -e "\e[1;32m TBomb \e[0m"
+toilet -f mono12 -F border 
 echo "Press Enter To Continue"
 read a1
 if [[ -s update.speedx ]];then
